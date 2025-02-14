@@ -5,7 +5,7 @@ metadata:
   labels:
     app: quarkus-hello
 spec:
-  host: quarkus-hello-build.apps.ocp.lab.snimmo.com
+  host: quarkus-hello-build.apps.ocp.lab.hbvk.com
   to:
     kind: Service
     name: el-quarkus-hello-build-event-listener
